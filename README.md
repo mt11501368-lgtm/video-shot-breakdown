@@ -1,6 +1,6 @@
 # Video Shot Breakdown
 
-![Video Shot Breakdown](assets/social-preview.png)
+![Video Shot Breakdown](assets/social-preview.jpg)
 
 [![Codex Skill](https://img.shields.io/badge/Codex-Skill-10A37F)](SKILL.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
