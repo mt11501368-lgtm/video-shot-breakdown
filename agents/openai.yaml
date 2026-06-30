@@ -1,0 +1,4 @@
+interface:
+  display_name: "视频拉片与复刻"
+  short_description: "从视频自动生成逐镜拆解、结构总结、分镜脚本和复刻用Excel表格"
+  default_prompt: "使用 $video-shot-breakdown 分析这个视频，生成学习拆解版和模仿复刻版 Excel。"
