@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+
+# Local analysis artifacts
+output/
+tmp/
+*.wav
+*.mp3
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.xlsx
+
+# Optional transcription model/cache directories
+.cache/
+models/
